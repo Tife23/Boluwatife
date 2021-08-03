@@ -1,7 +1,10 @@
-print("name,boluwatifeolunoiki")
+name= Boluwatife Olunoiki, email= tifeolunoiki@gmail.com, slack= @Boluwatife, biostack= drug discovery and genomics
 
-print ("email,tifeolunoiki@gmail.com")
 
-print("slackusername,@boluwatife")
+print('name=Boluwatife Olunoiki')
 
-print("biostack,drugdevelopmemt")
+print('email=tifeolunoiki@gmail.com')
+
+print('slackusername=@Boluwatife')
+
+print('biostack=drug discovery and genomics')
